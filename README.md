@@ -51,7 +51,6 @@
 ```
 
 ## L3 평가 체크포인트
-## ■  대상  마이크로서비스  : 고객, 상점주, 라이더
 ## ■  Microservice Implementation
 ### 1. Saga (Pub / Sub)
 
@@ -105,17 +104,18 @@
 
 ### 4. Deploy to EKS Cluster
 
-  #### 서비스 목록
-  - ![image](https://user-images.githubusercontent.com/2777247/219239201-9cf4f7cd-d2fd-40ae-b247-2dc423118de8.png)
+  #### 서비스 화인
+  - ![image](https://user-images.githubusercontent.com/55925545/219265239-ecde6a67-7016-416b-94e6-e8c54d35797f.png)
 
 ### 5.Gateway & Service Router 설치
  #### 서비스 목록 확인
-  - ![image](https://user-images.githubusercontent.com/2777247/219247998-a0a12d4c-2948-4a82-af1f-d383b0d84e9b.png)
+  - ![image](https://user-images.githubusercontent.com/55925545/219265350-af105614-10ab-4e7e-9b3c-21825d1f14d5.png)
  
 ### 6.Autoscale (HPA)
- #### autoscale 설정 확인 
-  - ![image](https://user-images.githubusercontent.com/2777247/219248765-4580e4eb-fd56-4d7c-bee6-6eab8bde7d8b.png)
-
+ #### autoscale 부하 발생 전 확인 
+  - ![image](https://user-images.githubusercontent.com/55925545/219265798-06327d5d-5b4e-42fc-8774-13af1b19bb01.png)
+ #### autoscale 부하 발생 후 확인 
+  - ![image](https://user-images.githubusercontent.com/55925545/219265910-53338e9d-5754-47a7-acdb-b198ddfddaf6.png)
  #### Pod 증가 확인
-  - ![image](https://user-images.githubusercontent.com/2777247/219248837-4557047c-57bb-46ae-b52f-ff08c32f4e20.png)
+  - ![image](https://user-images.githubusercontent.com/55925545/219265991-5aa1a9e5-167e-49ec-94ec-21777f9cd6f6.png)
 
