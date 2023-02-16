@@ -74,8 +74,7 @@
   - ![image](https://user-images.githubusercontent.com/61446346/205814117-7aa5d785-2d93-4d1a-90bd-8eb501648efe.png)
   -  CQRS 구현된 코드
   -  ![image](https://user-images.githubusercontent.com/2777247/219012947-a64463d1-daeb-43a2-9fe2-07f8412122be.png)
-  - 확인 : 오더주문시 생성된 데이터 
-  - ![image](https://user-images.githubusercontent.com/61446346/205814569-86d3e309-477c-40b1-8c9e-665be1c90f42.png)
+  
 
 ### 3. Compensation / Correlation
 
