@@ -24,7 +24,7 @@
  - 배달상태가 바뀔때마다 카톡 등으로 알림을 줄 수 있어야 한다 Event driven
 
 
-## 완성된 1차 모형
+## 1차 완성
 ![image](https://user-images.githubusercontent.com/61446346/206143689-14f04447-700b-4ac0-822f-ca2c3ef64b0c.png)
 
 ### 시나리오 적용
